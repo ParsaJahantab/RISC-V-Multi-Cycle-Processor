@@ -54,7 +54,7 @@ This project implements a **multi-cycle processor** based on the **RISC-V archit
   ![Controller](https://github.com/user-attachments/assets/12f21c4d-b018-4c17-baa6-94d7c1867dcb)
 
 
-## 🖥️ Synthesis for 2-115DE Board
+## 🖥️ Synthesis for cyclone v Board
 
 - **Board Design**: The processor design is synthesized for the **cyclone v board**, ensuring compatibility and optimal performance.
 - **Synthesis Stage**: This stage focuses on translating the processor design into a hardware circuit suitable for the cyclone v board, mapping the processor components to specific hardware resources. The design is optimized for both performance and area constraints.
