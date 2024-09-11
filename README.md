@@ -51,7 +51,8 @@ This project implements a **multi-cycle processor** based on the **RISC-V archit
    ![datapath](https://github.com/user-attachments/assets/028da244-844c-4d7f-9775-1521d4a7e448)
 
 - **Controller**: Produces control signals based on the current instruction and stage of execution.
-  https://github.com/ParsaJahantab/RISC-V-Multi-Cycle-Processor/blob/main/photos/ALU.png
+  ![Controller](https://github.com/user-attachments/assets/12f21c4d-b018-4c17-baa6-94d7c1867dcb)
+
 
 ## 🖥️ Synthesis for 2-115DE Board
 
